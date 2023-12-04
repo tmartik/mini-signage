@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Slide.qml</file>
+        <file>SlideStill.qml</file>
+        <file>SlideVideo.qml</file>
+        <file>SlideBlank.qml</file>
+        <file>Presentation.qml</file>
+    </qresource>
+</RCC>

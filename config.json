@@ -1,0 +1,15 @@
+{
+	"verbose": false,
+	"daily": {
+		"after": 7,
+		"until": 23
+	},
+	"interval": 5,
+	"fullscreen": false,
+	"blank": true,
+	"path": "sampleslides",
+	"extensions": {
+		"still": ["jpg", "jpeg", "png", "gif", "tiff"],
+		"video": ["avi", "mp4"]
+	}
+}

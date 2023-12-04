@@ -10,6 +10,10 @@ Run the setup - it will install the application and put it in the startup folder
 
 See config.json for parameters.
 
+# hints
+
+If you need remote control you can use Google Drive or similar.
+
 # troubleshooting
 
 If your video format is not supported please install a suitable codec pack.
